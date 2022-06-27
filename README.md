@@ -1,0 +1,4 @@
+- 😁 Hi, I’m @wintery-mix
+- 👀 I’m interested in automated information presentation
+- 🌱 I’d like to learn rust...
+- 💞️ I’m looking to collaborate on reverse engineering public information systems
