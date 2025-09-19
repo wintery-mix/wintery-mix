@@ -1,5 +1,1 @@
-- 😁 Hi, I’m @wintery-mix
-- 🏳️‍⚧️ it/she
-- 👀 I’m interested in automated information presentation
-- 💞️ I’m looking to collaborate on reverse engineering public information systems
-- 🍉 Looking for my code?  Find it over [here](https://codeberg.org/wintery_mix).
+# 🍉 Looking for my code?  Find it over [here](https://codeberg.org/wintery_mix) 🍉
